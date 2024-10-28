@@ -72,6 +72,9 @@ h1{
 #servicos h2,h3{
     color: #7c25f8;
 }
+#servicos p{
+    color: black;
+}
 h2{
     font-size: 3em;
     font-weight: 700;
